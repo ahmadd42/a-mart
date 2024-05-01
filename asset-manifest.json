@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/a-mart/static/css/main.c239afb1.css",
-    "main.js": "/a-mart/static/js/main.57187a90.js",
+    "main.css": "/a-mart/static/css/main.0f15303e.css",
+    "main.js": "/a-mart/static/js/main.adb09720.js",
     "static/media/banner1.jpg": "/a-mart/static/media/banner1.4e14b804014c155522b1.jpg",
     "static/media/banner3.jpg": "/a-mart/static/media/banner3.36c4ea6d44671c37f160.jpg",
     "static/media/banner4.jpg": "/a-mart/static/media/banner4.9b3bfea51eb60949fc67.jpg",
@@ -15,11 +15,11 @@
     "static/media/glyphicons-halflings-regular.woff2": "/a-mart/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "static/media/bg1.jpg": "/a-mart/static/media/bg1.235f8129cde7a9ab1de9.jpg",
     "index.html": "/a-mart/index.html",
-    "main.c239afb1.css.map": "/a-mart/static/css/main.c239afb1.css.map",
-    "main.57187a90.js.map": "/a-mart/static/js/main.57187a90.js.map"
+    "main.0f15303e.css.map": "/a-mart/static/css/main.0f15303e.css.map",
+    "main.adb09720.js.map": "/a-mart/static/js/main.adb09720.js.map"
   },
   "entrypoints": [
-    "static/css/main.c239afb1.css",
-    "static/js/main.57187a90.js"
+    "static/css/main.0f15303e.css",
+    "static/js/main.adb09720.js"
   ]
 }
