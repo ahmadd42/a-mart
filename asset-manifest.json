@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/a-mart/static/css/main.ff53bb5d.css",
-    "main.js": "/a-mart/static/js/main.6032e176.js",
+    "main.js": "/a-mart/static/js/main.34f729f0.js",
     "static/media/banner1.jpg": "/a-mart/static/media/banner1.4e14b804014c155522b1.jpg",
     "static/media/banner3.jpg": "/a-mart/static/media/banner3.36c4ea6d44671c37f160.jpg",
     "static/media/banner4.jpg": "/a-mart/static/media/banner4.9b3bfea51eb60949fc67.jpg",
@@ -13,13 +13,14 @@
     "static/media/glyphicons-halflings-regular.eot": "/a-mart/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
     "static/media/logo2.png": "/a-mart/static/media/logo2.78bcdec76da435c0dbf4.png",
     "static/media/glyphicons-halflings-regular.woff2": "/a-mart/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/mart-logo.jpg": "/a-mart/static/media/mart-logo.bfb796674101cc0e2f60.jpg",
     "static/media/bg1.jpg": "/a-mart/static/media/bg1.235f8129cde7a9ab1de9.jpg",
     "index.html": "/a-mart/index.html",
     "main.ff53bb5d.css.map": "/a-mart/static/css/main.ff53bb5d.css.map",
-    "main.6032e176.js.map": "/a-mart/static/js/main.6032e176.js.map"
+    "main.34f729f0.js.map": "/a-mart/static/js/main.34f729f0.js.map"
   },
   "entrypoints": [
     "static/css/main.ff53bb5d.css",
-    "static/js/main.6032e176.js"
+    "static/js/main.34f729f0.js"
   ]
 }
